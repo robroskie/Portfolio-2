@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio-2/static/css/main.073c9b0a.css",
-    "main.js": "/Portfolio-2/static/js/main.1f5b57b9.js",
+    "main.css": "/Portfolio-2/static/css/main.084af20c.css",
+    "main.js": "/Portfolio-2/static/js/main.1a27f754.js",
     "static/js/787.064844ce.chunk.js": "/Portfolio-2/static/js/787.064844ce.chunk.js",
-    "static/media/logo.svg": "/Portfolio-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/leaf.png": "/Portfolio-2/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Portfolio-2/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Portfolio-2/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Portfolio-2/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Portfolio-2/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Portfolio-2/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio-2/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Portfolio-2/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/Portfolio-2/static/media/Soumyajit_Behera-BIT_MESRA.a1cb5c1907e31e31991a.pdf",
+    "static/media/home-bg.jpg": "/Portfolio-2/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio-2/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio-2/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-2/index.html",
-    "main.073c9b0a.css.map": "/Portfolio-2/static/css/main.073c9b0a.css.map",
-    "main.1f5b57b9.js.map": "/Portfolio-2/static/js/main.1f5b57b9.js.map",
+    "main.084af20c.css.map": "/Portfolio-2/static/css/main.084af20c.css.map",
+    "main.1a27f754.js.map": "/Portfolio-2/static/js/main.1a27f754.js.map",
     "787.064844ce.chunk.js.map": "/Portfolio-2/static/js/787.064844ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1f5b57b9.js"
+    "static/css/main.084af20c.css",
+    "static/js/main.1a27f754.js"
   ]
 }

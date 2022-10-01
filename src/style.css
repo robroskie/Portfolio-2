@@ -407,8 +407,17 @@ button:focus {
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
 }
+
+
+
 .footer-copywright {
   text-align: center !important;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.footer-github {
+  text-align: left !important;;
 }
 
 .footer-body {
@@ -732,6 +741,14 @@ button:focus {
   vertical-align: middle !important;
   text-align: center !important;
 }
+
+/* .fork-btn-inner-footer {
+  line-height: 1.4em !important;
+  background-color: #934cce5e !important;
+  padding: 0.25rem 1.1rem !important;
+  vertical-align: middle !important;
+  text-align: left !important;
+} */
 
 .fork-btn-inner:hover {
   transform: translateY(-2px) !important;

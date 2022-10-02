@@ -5,6 +5,7 @@ import Particle from "../Particle";
 
 //Controls download link 
 import pdf from "../../Assets/../Assets/Luke_Roblesky_CV.pdf";
+
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -12,7 +13,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 //Control resume displayed on page
 const resumeLink =
-  "https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Soumyajit_Behera-BIT_MESRA.pdf";
+  "https://raw.githubusercontent.com/robroskie/Portfolio-2/master/src/Assets/Luke_Roblesky_CV.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);

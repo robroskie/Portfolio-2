@@ -6,37 +6,47 @@ import {
   SiPostman,
   SiHeroku,
   SiVercel,
+  SiPycharm,
+  SiEclipseide,
+  SiFlask,
+  SiFigma,
+  SiAmazonaws,
+  SiTensorflow,
 } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiLinux />
+        <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <SiPycharm />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiEclipseide />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFlask />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTensorflow />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiLinux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
       </Col>
+
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiFigma />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        <SiAmazonaws />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />

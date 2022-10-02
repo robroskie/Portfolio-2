@@ -35,13 +35,13 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
+          <strong className="purple"> Languages </strong> I work with
         </h1>
 
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
+          My preferred <strong className="purple">Tools</strong> 
         </h1>
         <Toolstack />
 

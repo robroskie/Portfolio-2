@@ -9,13 +9,17 @@ import Button from "react-bootstrap/Button";
 import { CgGitFork } from "react-icons/cg";
 import { AiFillStar } from "react-icons/ai";
 
+import Credit from "./Credits/Credit"
+
 function Footer() {
   let date = new Date();
   let year = date.getFullYear();
   return (
     <Container fluid className="footer">
-      <Row>
-        <Col md="4" className="footer-copywright nopadding">
+      {/* <Row> */}
+         {/* <Col md="4" className="footer-copywright nopadding"> */}
+        <Credit></Credit>
+        {/* <Col md="4" className="footer-copywright nopadding">
           <h5 className="reference">Template adapted from</h5>
         </Col>
 
@@ -27,10 +31,10 @@ function Footer() {
           >
             <CgGitFork style={{ fontSize: "1em" }} />{" "}
             <AiFillStar style={{ fontSize: "1em" }} />
-          </Button>
-        </Col>
+  </Button> */ }
+        {/* </Col>  */}
 
-        <Col md="4" className="footer-body">
+        {/* <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
@@ -53,8 +57,8 @@ function Footer() {
               </a>
             </li>
           </ul>
-        </Col>
-      </Row>
+        </Col> */}
+      {/* </Row> */}
     </Container>
   );
 }

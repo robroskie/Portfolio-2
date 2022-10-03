@@ -31,7 +31,7 @@ function AboutCard() {
               <SiYourtraveldottv /> Travelling to countries with spicy street foods
             </li>
             <li className="about-activity">
-              <BiGame /> Trying new Beat Saber songs on expert
+              <BiGame /> Trying new the latest Beat Saber song packs
             </li>
           </ul>
 

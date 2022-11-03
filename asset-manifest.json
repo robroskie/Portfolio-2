@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio-2/static/css/main.71b9e0af.css",
-    "main.js": "/Portfolio-2/static/js/main.379195a2.js",
+    "main.js": "/Portfolio-2/static/js/main.b75cffef.js",
     "static/js/787.064844ce.chunk.js": "/Portfolio-2/static/js/787.064844ce.chunk.js",
     "static/media/flightfinder.png": "/Portfolio-2/static/media/flightfinder.9cf10f9a77640494eee7.png",
     "static/media/brainyard.png": "/Portfolio-2/static/media/brainyard.44c1d00178d357d32336.png",
-    "static/media/chatify.png": "/Portfolio-2/static/media/chatify.1b585492490c8c1cace9.png",
     "static/media/about.png": "/Portfolio-2/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/airtraffic.png": "/Portfolio-2/static/media/airtraffic.15c6bef694aae5f11253.png",
     "static/media/Luke_Roblesky_CV.pdf": "/Portfolio-2/static/media/Luke_Roblesky_CV.5409401fd74bd7ffccb9.pdf",
@@ -15,11 +14,11 @@
     "static/media/pre.svg": "/Portfolio-2/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-2/index.html",
     "main.71b9e0af.css.map": "/Portfolio-2/static/css/main.71b9e0af.css.map",
-    "main.379195a2.js.map": "/Portfolio-2/static/js/main.379195a2.js.map",
+    "main.b75cffef.js.map": "/Portfolio-2/static/js/main.b75cffef.js.map",
     "787.064844ce.chunk.js.map": "/Portfolio-2/static/js/787.064844ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71b9e0af.css",
-    "static/js/main.379195a2.js"
+    "static/js/main.b75cffef.js"
   ]
 }

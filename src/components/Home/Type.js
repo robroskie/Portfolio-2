@@ -1,5 +1,4 @@
 import React from "react";
-import { ImShuffle } from "react-icons/im";
 import Typewriter from "typewriter-effect";
 
 function shuffleArray(array) {

@@ -26,6 +26,15 @@ function About() {
             </h1>
             <Aboutcard />
           </Col>
+
+
+          <Col
+            md={5}
+            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            className="about-img"
+          >
+            <img src={laptopImg} alt="about" className="img-fluid" />
+          </Col>
           
         </Row>
         <h1 className="project-heading">

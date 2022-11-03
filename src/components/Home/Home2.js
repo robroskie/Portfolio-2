@@ -45,7 +45,7 @@ function Home2() {
               <i>
                 <b className="purple"> Data Analysis </b>
               </i>,
-              but am opening to learning whatever is required to best complete a task.
+              but am eager to learn whatever is required to best complete a task.
 
             </p>
    

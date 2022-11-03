@@ -10,8 +10,8 @@ function Credit() {
     <Row>
       <Col md={2}>
         <h6 className="reference">
-          Adapted from{" "}
-          <a href="https://github.com/soumyajit4419/Portfolio" className="anchor">here</a>
+          Adapted from{"  "}
+          <a href="https://github.com/soumyajit4419/Portfolio" className="anchor"><b className="purple">here</b></a>
           {/* <Button
             href="https://github.com/soumyajit4419/Portfolio"
             target="_blank"

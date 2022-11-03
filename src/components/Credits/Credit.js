@@ -9,7 +9,7 @@ function Credit() {
   return (
     <Row>
       <Col md={2}>
-        <h5 className="reference">Template adapted from</h5>
+        <h6 className="reference">Adapted from</h6>
       </Col>
       {/* <Col md={1}>
         <AiOutlineArrowRight></AiOutlineArrowRight>
@@ -18,7 +18,7 @@ function Credit() {
         <Button
           href="https://github.com/soumyajit4419/Portfolio"
           target="_blank"
-          className="fork-btn-inner"
+          className="fork-btn-inner"chef
         >
           <CgGitFork style={{ fontSize: "1em" }} />{" "}
         </Button>

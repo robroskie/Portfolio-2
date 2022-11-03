@@ -19,11 +19,37 @@ function Home2() {
 
             <p className="home-about-body">
               <br />
-              Work in
+              Currently located in Kelowna, BC but am open to relocating for the right internship opportunity. I am 
+              a hard-working student academically, as seen b.y my GPA and merit-based awards. Although my studies are valuable,
+              they are not my sole source of acquiring knowledge and developing skills. I spend my time outside class improving
+              my programmig skills
               <i>
-                <b className="purple"> progress! </b>
+                <b className="purple"> Leetcode</b>
+              </i>, learning new technologies such as  
+              <i>
+                <b className="purple"> React  </b>
               </i>
+              (which is what this site is built in), and reading up on the latest trends in technology.
             </p>
+            <p className="home-about-body">
+            I have experience working with 
+            <i>
+                <b className="purple"> Web Development</b>,
+              </i>
+              <i>
+                <b className="purple"> Natural Language Processing </b>,
+              </i>
+              <i>
+                <b className="purple"> Databases </b>,
+              </i> and 
+              <i>
+                <b className="purple"> Data Analysis </b>
+              </i>,
+              but am opening to learning whatever is required to best complete a task.
+
+            </p>
+   
+
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
